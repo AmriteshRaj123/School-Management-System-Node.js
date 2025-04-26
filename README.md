@@ -69,3 +69,4 @@ export async function GET(request: NextRequest) {
 4. **Responsive Design**:
    - Works well on both mobile and desktop devices
    - Sidebar with statistics on larger screens
+   Sidebar with statistics on larger screens
